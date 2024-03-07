@@ -51,6 +51,7 @@ bash
 Copy code
 java -jar target/taskmanagement-application.jar
 Access the application at http://localhost:8770
+
 4. Usage
 Access the Task Listing:
 
@@ -69,6 +70,7 @@ Use appropriate REST API verbs to update/modify task information.
 Task Deletion:
 
 Delete tasks from the list by specifying task ID as a query parameter.
+
 5. Additional Notes for Developers
 Exception Handling:
 
