@@ -78,6 +78,7 @@ Ensure proper error handling and validation in CRUD operations.
 Clean Code Practices:
 
 Focus on clean, readable, and maintainable code.
+
 6. Database Configuration:
 
 For development, the application uses an H2 in-memory database. Update the database configuration for production use.
